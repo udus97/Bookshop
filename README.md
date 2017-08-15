@@ -4,9 +4,9 @@ This is an application that helps visitors to a bookshop with easily finding a b
 
 It helps them to save time and energy by instantly knowing whether a book is available or not.
 
-![application screenshot](https://raw.githubusercontent.com/udus97/Bookshop/master/img/image1.png)
-![application screenshot](https://raw.githubusercontent.com/udus97/Bookshop/master/img/image2.png)
-![application screenshot](https://raw.githubusercontent.com/udus97/Bookshop/master/img/image3.png)
+![application screenshot](https://raw.githubusercontent.com/udus97/Bookshop/master/image1.png)
+![application screenshot](https://raw.githubusercontent.com/udus97/Bookshop/master/image2.png)
+![application screenshot](https://raw.githubusercontent.com/udus97/Bookshop/master/image3.png)
 
 This application is in its early stages, and I intend to add more features to it, such as a way for the bookshop administrator to query the database to know how many books are in the bookshop, how many books need replacement etc.
 
